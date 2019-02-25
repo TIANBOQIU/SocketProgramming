@@ -186,23 +186,32 @@ class Server:
         print('Request-Server-From-Proxy\n')
         print(h)
         self.write_log('Request-Server-From-Proxy\n'+h)
-
-
-
-        response_content = 'hello from http proxy!\r\n'
-        http_headers = self.generate_header_lines(status=200, length=len(response_content))
-        #conn.sendall(http_headers.encode('utf-8'))
-        #time.sleep(1)
-        #conn.sendall(response_content)
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        s.connect((webserver, 80))
+        s.sendall(h)
+        re = s.recv(65536)
+        # debug: it seems good, retrieved the page successfully :)
+        self.write_log(self.getTimeStamp() + 'GET_The_response\n####\n' + re)
         
-        # debug All tested and work
-        #conn.sendall('HTTP/1.0 200 OK\r\n\r\nHello\r\n')
-        #http_response = http_headers+response_content
-        #http_response = http_headers+self.client_page.format(msg='Hello world! from HTTP proxy!')
-        http_response = http_headers+self.client_error_page.format(status_code=404,msg='Not Found!')
-        conn.sendall(http_response.encode('utf-8')) # I remember HTTP or SMTP use UTF-8
-
+        conn.sendall(re)
         conn.close()
+
+        
+
+        #response_content = 'hello from http proxy!\r\n'
+        #http_headers = self.generate_header_lines(status=200, length=len(response_content))
+            #conn.sendall(http_headers.encode('utf-8'))
+            #time.sleep(1)
+            #conn.sendall(response_content)
+            
+            # debug All tested and work
+            #conn.sendall('HTTP/1.0 200 OK\r\n\r\nHello\r\n')
+            #http_response = http_headers+response_content
+            #http_response = http_headers+self.client_page.format(msg='Hello world! from HTTP proxy!')
+        #http_response = http_headers+self.client_error_page.format(status_code=404,msg='Not Found!')
+        #conn.sendall(http_response.encode('utf-8')) # I remember HTTP or SMTP use UTF-8
+
+        #conn.close()
 
 
 
