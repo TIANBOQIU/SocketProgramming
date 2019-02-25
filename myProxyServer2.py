@@ -178,6 +178,17 @@ class Server:
 
     
     def http_proxy(self,webserver, port, conn, header):
+        h = ''
+        for line in header[:-1]: # the last line is a black line
+            if (not 'Connection' in line) and (not 'Upgrade-Insecure-Requests' in line):
+                h  += line + '\r\n'
+        h += 'Connection: close\r\n\r\n'
+        print('Request-Server-From-Proxy\n')
+        print(h)
+        self.write_log('Request-Server-From-Proxy\n'+h)
+
+
+
         response_content = 'hello from http proxy!\r\n'
         http_headers = self.generate_header_lines(status=200, length=len(response_content))
         #conn.sendall(http_headers.encode('utf-8'))
