@@ -1,6 +1,7 @@
 '''
 To figure out the request format
 Usage: Use Firefox Safe Mode to deactivate autoFill HTTP CONNECT method
+add version control
 '''
 
 import socket
@@ -165,6 +166,16 @@ class Server:
         h += 'Connection: close\r\n'
         h += '\r\n' # the end of the header and the start of the data
         return h
+    
+    def generate_request_GET(self, header):
+        h = ''
+        for line in header:
+            if not line.split(': ')[0] == 'Connection':
+                h = h + line + '\r\n'
+        h += 'Connection: close\r\n'
+        h += '\r\n' # there is a blank line
+        print(self.getTimeStamp()+'    HTTP request\n' + h)
+        self.write_log(self.getTimeStamp()+'    HTTP request\n' + h)
 
     # do not handle https for now
     def https_proxy(self,webserver, port, conn, header):
@@ -176,10 +187,34 @@ class Server:
         conn.close()
         #print(response)
 
+    def handle_http_request(self, webserver, header):
+        dir = os.path.join(os.getcwd(), 'cache')
+        if not os.path.exists(dir):
+            os.mkdir('cache')
+        dir_cache = os.path.join(dir, webserver.replace('.','__'))
+        if not os.path.exists(dir_cache):
+            os.mkdir(dir_cache)
+        ## should use a make_dir function
+        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        http_request = self.generate_request_GET(header)
+        s.connect((webserver, 80))
+        s.sendall(http_request)
+        result = s.recv(65536)
+        return result
+
+        
+
     
     def http_proxy(self,webserver, port, conn, header):
+        request_file = self.handle_http_request(webserver, header)
+        #print(self.getTimeStamp() + '   get response from the server')
+        #self.write_log(self.getTimeStamp() + '   get response from the server'+request_file)
+
+
+
         response_content = 'hello from http proxy!\r\n'
         http_headers = self.generate_header_lines(status=200, length=len(response_content))
+        
         #conn.sendall(http_headers.encode('utf-8'))
         #time.sleep(1)
         #conn.sendall(response_content)
@@ -187,9 +222,11 @@ class Server:
         # debug All tested and work
         #conn.sendall('HTTP/1.0 200 OK\r\n\r\nHello\r\n')
         #http_response = http_headers+response_content
-        #http_response = http_headers+self.client_page.format(msg='Hello world! from HTTP proxy!')
-        http_response = http_headers+self.client_error_page.format(status_code=404,msg='Not Found!')
+        http_response = http_headers+self.client_page.format(msg='Hello world! from HTTP proxy!')
+        #http_response = http_headers+self.client_error_page.format(status_code=404,msg='Not Found!')
         conn.sendall(http_response.encode('utf-8')) # I remember HTTP or SMTP use UTF-8
+
+        #conn.sendall(request_file.encode('utf-8'))
 
         conn.close()
 

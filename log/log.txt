@@ -1,0 +1,4406 @@
+[2019-02-25 10:25:28] Start listening
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:35]     HTTP GET Request
+[2019-02-25 10:25:35]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:35]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:35]     HTTP GET Request
+[2019-02-25 10:25:35]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:35]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:39]     HTTP GET Request
+[2019-02-25 10:25:39]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:39]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:44]     HTTP GET Request
+[2019-02-25 10:25:44]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:44]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: www.edx.org   port: 80
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:48]     HTTP GET Request
+[2019-02-25 10:25:48]     HTTP GET Request
+[2019-02-25 10:25:48]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:25:48]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:48]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:25:48]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: www.edx.org   port: 80
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:49]     HTTP GET Request
+[2019-02-25 10:25:49]     HTTP GET Request
+[2019-02-25 10:25:49]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:25:49]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:49]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:25:49]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: www.edx.org   port: 80
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:49]     HTTP GET Request
+[2019-02-25 10:25:49]     HTTP GET Request
+[2019-02-25 10:25:49]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:25:49]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:49]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:25:49]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: www.edx.org   port: 80
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:49]     HTTP GET Request
+[2019-02-25 10:25:49]     HTTP GET Request
+[2019-02-25 10:25:49]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:25:49]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:49]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:25:49]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:25:49]     HTTP GET Request
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:49]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:25:49]     HTTP GET Request
+[2019-02-25 10:25:49]     HTTP GET Request
+[2019-02-25 10:25:49]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:49]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:49]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:25:49]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:25:50]     HTTP GET Request
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:50]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:25:50]     HTTP GET Request
+[2019-02-25 10:25:50]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:25:50]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:50]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:25:50]     HTTP GET Request
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:50]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:25:50]     HTTP GET Request
+[2019-02-25 10:25:50]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:25:50]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:50]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:25:50]     HTTP GET Request
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:50]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:25:50]     HTTP GET Request
+[2019-02-25 10:25:50]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:25:50]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:50]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:25:50]     HTTP GET Request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:25:50]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:50]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:25:50]     HTTP GET Request
+[2019-02-25 10:25:50]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:50]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:25:50]     HTTP GET Request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:25:50]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:50]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:25:50]     HTTP GET Request
+[2019-02-25 10:25:50]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:50]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:54]     HTTP GET Request
+[2019-02-25 10:25:54]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:54]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:25:59]     HTTP GET Request
+[2019-02-25 10:25:59]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:25:59]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:26:40]     HTTP GET Request
+[2019-02-25 10:26:40]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:26:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:26:45]     HTTP GET Request
+[2019-02-25 10:26:45]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:26:46]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:26:50]     HTTP GET Request
+[2019-02-25 10:26:51]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:26:51]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:26:55]     HTTP GET Request
+[2019-02-25 10:26:55]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:26:56]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:27:01]     HTTP GET Request
+[2019-02-25 10:27:01]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:27:01]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:27:06]     HTTP GET Request
+[2019-02-25 10:27:06]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:27:06]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:27:12]     HTTP GET Request
+[2019-02-25 10:27:12]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:27:13]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: detectportal.firefox.com   port: 80
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:27:41]     HTTP GET Request
+[2019-02-25 10:27:41]     HTTP GET Request
+[2019-02-25 10:27:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:27:41]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:27:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:27:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:27:41]     HTTP GET Request
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:27:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:27:41]     HTTP GET Request
+[2019-02-25 10:27:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:27:41]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:27:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:27:41]     HTTP GET Request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:27:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:27:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:27:41]     HTTP GET Request
+[2019-02-25 10:27:41]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:27:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:27:41]     HTTP GET Request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:27:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:27:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:27:41]     HTTP GET Request
+[2019-02-25 10:27:41]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:27:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:27:42]     HTTP GET Request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:27:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:27:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:27:42]     HTTP GET Request
+[2019-02-25 10:27:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:27:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:27:42]     HTTP GET Request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:27:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:27:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:27:42]     HTTP GET Request
+[2019-02-25 10:27:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:27:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:27:42]     HTTP GET Request
+[2019-02-25 10:27:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:27:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:27:42]     HTTP GET Request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:27:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:27:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:27:42]     HTTP GET Request
+[2019-02-25 10:27:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:27:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:27:42]     HTTP GET Request
+[2019-02-25 10:27:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:27:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:27:42]     HTTP GET Request
+[2019-02-25 10:27:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:27:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:27:42]     HTTP GET Request
+[2019-02-25 10:27:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:27:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:27:42]     HTTP GET Request
+[2019-02-25 10:27:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:27:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:27:45]     HTTP GET Request
+[2019-02-25 10:27:45]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:27:46]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:27:51]     HTTP GET Request
+[2019-02-25 10:27:51]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:27:51]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:27:55]     HTTP GET Request
+[2019-02-25 10:27:56]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:27:56]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:28:00]     HTTP GET Request
+[2019-02-25 10:28:01]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:28:01]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:28:05] KeyboardInterrupt
+[2019-02-25 10:28:06] Stopping Server..
+
+
+[2019-02-25 10:28:07] Start listening
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:28:13]     HTTP GET Request
+[2019-02-25 10:28:13]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:28:13]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: detectportal.firefox.com   port: 80
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:28:41]     HTTP GET Request
+[2019-02-25 10:28:41]     HTTP GET Request
+[2019-02-25 10:28:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:28:41]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:28:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:28:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:28:41]     HTTP GET Request
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:28:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:28:41]     HTTP GET Request
+[2019-02-25 10:28:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:28:41]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:28:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:28:41]     HTTP GET Request
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:28:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:28:41]     HTTP GET Request
+[2019-02-25 10:28:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:28:41]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:28:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:28:41]     HTTP GET Request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:28:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:28:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:28:41]     HTTP GET Request
+[2019-02-25 10:28:41]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:28:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:28:42]     HTTP GET Request
+[2019-02-25 10:28:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:28:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:28:42]     HTTP GET Request
+[2019-02-25 10:28:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:28:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:28:42]     HTTP GET Request
+[2019-02-25 10:28:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:28:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:28:42]     HTTP GET Request
+[2019-02-25 10:28:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:28:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:28:42]     HTTP GET Request
+[2019-02-25 10:28:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:28:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:28:42]     HTTP GET Request
+[2019-02-25 10:28:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:28:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:28:42]     HTTP GET Request
+[2019-02-25 10:28:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:28:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:28:42]     HTTP GET Request
+[2019-02-25 10:28:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:28:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:28:42]     HTTP GET Request
+[2019-02-25 10:28:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:28:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:28:42]     HTTP GET Request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:28:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:28:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:28:42]     HTTP GET Request
+[2019-02-25 10:28:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:28:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:28:45]     HTTP GET Request
+[2019-02-25 10:28:46]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:28:46]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:28:50]     HTTP GET Request
+[2019-02-25 10:28:51]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:28:51]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:28:56]     HTTP GET Request
+[2019-02-25 10:28:56]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:28:56]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:29:01]     HTTP GET Request
+[2019-02-25 10:29:01]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:29:01]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:29:06]     HTTP GET Request
+[2019-02-25 10:29:06]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:29:06]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:29:40]     HTTP GET Request
+[2019-02-25 10:29:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:29:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:29:46]     HTTP GET Request
+[2019-02-25 10:29:46]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:29:46]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:29:50] KeyboardInterrupt
+[2019-02-25 10:29:51] Stopping Server..
+
+
+[2019-02-25 10:29:52] Start listening
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:29:52]     HTTP GET Request
+[2019-02-25 10:29:52]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:29:52]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:29:56]     HTTP GET Request
+[2019-02-25 10:29:56]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:29:56]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: detectportal.firefox.com   port: 80
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:29:59]     HTTP GET Request
+[2019-02-25 10:29:59]     HTTP GET Request
+[2019-02-25 10:29:59]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:29:59]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:29:59]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:29:59]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: detectportal.firefox.com   port: 80
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:29:59]     HTTP GET Request
+[2019-02-25 10:29:59]     HTTP GET Request
+[2019-02-25 10:29:59]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:29:59]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:30:00]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:30:00]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: detectportal.firefox.com   port: 80
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:30:00]     HTTP GET Request
+[2019-02-25 10:30:00]     HTTP GET Request
+[2019-02-25 10:30:00]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:30:00]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:30:00]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:30:00]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: detectportal.firefox.com   port: 80
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:30:00]     HTTP GET Request
+[2019-02-25 10:30:00]     HTTP GET Request
+[2019-02-25 10:30:00]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:30:00]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:30:00]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:30:00]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:30:01]     HTTP GET Request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:30:01]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:30:01]     HTTP GET Request
+[2019-02-25 10:30:01]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:30:01]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:30:01]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:30:01]     HTTP GET Request
+[2019-02-25 10:30:01]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:30:01]     HTTP GET Request
+[2019-02-25 10:30:01]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:30:01]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:30:01]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:30:01]     HTTP GET Request
+[2019-02-25 10:30:01]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:30:01]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:30:01]     HTTP GET Request
+[2019-02-25 10:30:01]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:30:01]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:30:01]     HTTP GET Request
+[2019-02-25 10:30:01]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:30:01]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:30:01]     HTTP GET Request
+[2019-02-25 10:30:02]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:30:02]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:30:02]     HTTP GET Request
+[2019-02-25 10:30:02]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:30:02]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:30:02]     HTTP GET Request
+[2019-02-25 10:30:02]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:30:02]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:30:02]     HTTP GET Request
+[2019-02-25 10:30:02]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:30:02]     HTTP GET Request
+[2019-02-25 10:30:02]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:30:02]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:30:02]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:30:02]     HTTP GET Request
+[2019-02-25 10:30:02]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:30:02]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:30:06]     HTTP GET Request
+[2019-02-25 10:30:06]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:30:06]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:30:40] KeyboardInterrupt
+[2019-02-25 10:30:41] Stopping Server..
+
+
+[2019-02-25 10:31:30] Start listening
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:31:36]     HTTP GET Request
+[2019-02-25 10:31:36]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:31:36]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: detectportal.firefox.com   port: 80
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:31:41]     HTTP GET Request
+[2019-02-25 10:31:41]     HTTP GET Request
+[2019-02-25 10:31:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:31:41]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:31:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:31:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:31:41]     HTTP GET Request
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:31:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:31:41]     HTTP GET Request
+[2019-02-25 10:31:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:31:41]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:31:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:31:41]     HTTP GET Request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:31:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:31:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:31:42]     HTTP GET Request
+[2019-02-25 10:31:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:31:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:31:42]     HTTP GET Request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:31:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:31:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:31:42]     HTTP GET Request
+[2019-02-25 10:31:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:31:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:31:42]     HTTP GET Request
+[2019-02-25 10:31:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:31:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:31:42]     HTTP GET Request
+[2019-02-25 10:31:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:31:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:31:42]     HTTP GET Request
+[2019-02-25 10:31:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:31:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:31:42]     HTTP GET Request
+[2019-02-25 10:31:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:31:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:31:42]     HTTP GET Request
+[2019-02-25 10:31:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:31:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:31:42]     HTTP GET Request
+[2019-02-25 10:31:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:31:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:31:42]     HTTP GET Request
+[2019-02-25 10:31:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:31:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:31:42]     HTTP GET Request
+[2019-02-25 10:31:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:31:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:31:43]     HTTP GET Request
+[2019-02-25 10:31:43]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:31:43]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:31:43]     HTTP GET Request
+[2019-02-25 10:31:43]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:31:43]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:31:43]     HTTP GET Request
+[2019-02-25 10:31:43]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:31:43]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:31:46]     HTTP GET Request
+[2019-02-25 10:31:46]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:31:46]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:31:51]     HTTP GET Request
+[2019-02-25 10:31:51]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:31:51]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:31:56]     HTTP GET Request
+[2019-02-25 10:31:56]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:31:56]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:32:00] KeyboardInterrupt
+[2019-02-25 10:32:01] Stopping Server..
+
+
+[2019-02-25 10:32:02] Start listening
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:32:03]     HTTP GET Request
+[2019-02-25 10:32:03]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:32:03]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:32:41]     HTTP GET Request
+[2019-02-25 10:32:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:32:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:32:46]     HTTP GET Request
+[2019-02-25 10:32:46]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:32:46]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:32:51]     HTTP GET Request
+[2019-02-25 10:32:51]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:32:51]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:32:56]     HTTP GET Request
+[2019-02-25 10:32:56]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:32:56]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:33:01]     HTTP GET Request
+[2019-02-25 10:33:01]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:33:01]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:33:06]     HTTP GET Request
+[2019-02-25 10:33:06]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:33:06]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:33:16] KeyboardInterrupt
+[2019-02-25 10:33:17] Stopping Server..
+
+
+[2019-02-25 10:33:20] Start listening
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:33:27]     HTTP GET Request
+[2019-02-25 10:33:27]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:33:27]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:33:41]     HTTP GET Request
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:33:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:33:41]     HTTP GET Request
+[2019-02-25 10:33:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:33:41]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:33:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:33:41]     HTTP GET Request
+edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:33:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:33:41]     HTTP GET Request
+[2019-02-25 10:33:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:33:41]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:33:41]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:33:41]     HTTP GET Request
+[2019-02-25 10:33:41]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:33:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:33:42]     HTTP GET Request
+[2019-02-25 10:33:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:33:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:33:42]     HTTP GET Request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:33:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:33:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:33:42]     HTTP GET Request
+[2019-02-25 10:33:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:33:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:33:42]     HTTP GET Request
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:33:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:33:42]     HTTP GET Request
+[2019-02-25 10:33:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:33:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:33:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:33:42]     HTTP GET Request
+[2019-02-25 10:33:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:33:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:33:42]     HTTP GET Request
+[2019-02-25 10:33:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:33:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:33:42]     HTTP GET Request
+[2019-02-25 10:33:42]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+[2019-02-25 10:33:42]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:33:42]     HTTP GET Request
+[2019-02-25 10:33:42]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+[2019-02-25 10:33:43]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:33:43]     HTTP GET Request
+[2019-02-25 10:33:43]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:33:43]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+     webserver: www.edx.org   port: 80
+[2019-02-25 10:33:43]     HTTP GET Request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:33:43]     HTTP GET Request
+[2019-02-25 10:33:43]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:33:43]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:33:43]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Connection: keep-alive
+Upgrade-Insecure-Requests: 1
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: www.edx.org   port: 80
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:33:43]     HTTP GET Request
+[2019-02-25 10:33:43]     HTTP GET Request
+[2019-02-25 10:33:43]    HTTP request
+GET http://www.edx.org/ HTTP/1.1
+Host: www.edx.org
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+DNT: 1
+Upgrade-Insecure-Requests: 1
+
+Connection: close
+
+
+[2019-02-25 10:33:43]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:33:43]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:33:43]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:33:46]     HTTP GET Request
+[2019-02-25 10:33:46]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:33:46]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:33:51]     HTTP GET Request
+[2019-02-25 10:33:51]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:33:51]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:33:56]     HTTP GET Request
+[2019-02-25 10:33:56]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:33:56]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:34:01]     HTTP GET Request
+[2019-02-25 10:34:01]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:34:01]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+Connection: keep-alive
+
+     webserver: detectportal.firefox.com   port: 80
+[2019-02-25 10:34:06]     HTTP GET Request
+[2019-02-25 10:34:06]    HTTP request
+GET http://detectportal.firefox.com/success.txt HTTP/1.1
+Host: detectportal.firefox.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+Accept: */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Cache-Control: no-cache
+Pragma: no-cache
+
+Connection: close
+
+
+[2019-02-25 10:34:06]     Error: cannot read quest sendall() argument 1 must be string or buffer, not None
+
+[2019-02-25 10:34:40] KeyboardInterrupt
+[2019-02-25 10:34:41] Stopping Server..
+
+
