@@ -176,6 +176,16 @@ class Server:
         conn.close()
         #print(response)
 
+    def recv_all(self, conn):
+        buffer_size = 1024
+        response = ''
+        while True:
+            r = conn.recv(buffer_size)
+            if len(r) == 0:
+                break
+            response += r
+        return response
+
     
     def http_proxy(self,webserver, port, conn, header):
         h = ''
@@ -189,7 +199,9 @@ class Server:
         s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
         s.connect((webserver, 80))
         s.sendall(h)
-        re = s.recv(65536)
+        #re = s.recv(65536)
+        re = self.recv_all(s)
+
         # debug: it seems good, retrieved the page successfully :)
         self.write_log(self.getTimeStamp() + 'GET_The_response\n####\n' + re)
         
