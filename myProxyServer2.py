@@ -130,7 +130,9 @@ class Server:
             if method == b'CONNECT':
                 print(self.getTimeStamp() + '   HTTPS CONNECT Request')
                 self.write_log(self.getTimeStamp() + '   HTTPS CONNECT Request')
-                self.https_proxy(webserver, port, conn, header)
+                # ignore
+                #self.https_proxy(webserver, port, conn, header)
+                return
             # IS HTTP GET REQUEST
             elif method == b'GET':
                 print(self.getTimeStamp()+'     HTTP GET Request')
@@ -185,22 +187,82 @@ class Server:
                 break
             response += r
         return response
+    
+    def check_cache(self, webserver, port,conn, header):
+        # check if there is a cache file
+        # if exists : send it back (#check if is up-to-date)
+        # not exists: remote request, send it back, cache (cache after send for efficiency)
+        dir = os.path.join(os.getcwd(), 'cache')
+        if not os.path.exists(dir):
+            os.mkdir('cache')
+        dir = os.path.join(dir, webserver)
+        if not os.path.exists(dir):
+            os.mkdir(dir)
+        
+        filename = header[0].split(' ')[1]
+        filename = filename.replace('/','_')
+        filename = filename.replace('?','~')
+        filename = filename.replace(':','_~_')
+        filename += '.cache'
+        
+        
+        print('FILENAME',filename)
+        cache_dir = os.path.join(dir, filename)
+        # cache_status
+        # Ture: cached      False: not cached
+        cache_status = os.path.exists(cache_dir)
+        # no cache found, retrieve remotely
+        if not cache_status:
+            # cache and return
+            print(self.getTimeStamp() + '   No cache found')
+            self.write_log(self.getTimeStamp() + '   No cache found')
+            h = ''
+            for line in header[:-1]: # the last line is a black line
+                if (not 'Connection' in line) and (not 'Upgrade-Insecure-Requests' in line):
+                    h  += line + '\r\n'
+            h += 'Connection: close\r\n\r\n'
+            print('Request-Server-From-Proxy\n')
+            print(h)
+            self.write_log('Request-Server-From-Proxy\n'+h)
+            s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+            s.connect((webserver, 80))
+            s.sendall(h)
+            #re = s.recv(65536)
+            re = self.recv_all(s)
+            # change to wb+
+            with open(cache_dir,'wb+') as f: 
+                f.write(re)
+            return re
+        else:
+            # hit a cache
+            re = ''
+            print(self.getTimeStamp() + '   Hit Cache!' + filename)
+            self.write_log(self.getTimeStamp() + '   Hit Cache!' + filename)
+            with open(cache_dir,'rb') as f:
+                re = f.read()
+            return re
+            
+
+
+            
 
     
     def http_proxy(self,webserver, port, conn, header):
-        h = ''
-        for line in header[:-1]: # the last line is a black line
-            if (not 'Connection' in line) and (not 'Upgrade-Insecure-Requests' in line):
-                h  += line + '\r\n'
-        h += 'Connection: close\r\n\r\n'
-        print('Request-Server-From-Proxy\n')
-        print(h)
-        self.write_log('Request-Server-From-Proxy\n'+h)
-        s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        s.connect((webserver, 80))
-        s.sendall(h)
-        #re = s.recv(65536)
-        re = self.recv_all(s)
+        #h = ''
+        #for line in header[:-1]: # the last line is a black line
+        #    if (not 'Connection' in line) and (not 'Upgrade-Insecure-Requests' in line):
+        #        h  += line + '\r\n'
+        #h += 'Connection: close\r\n\r\n'
+        #print('Request-Server-From-Proxy\n')
+        #print(h)
+        #self.write_log('Request-Server-From-Proxy\n'+h)
+        #s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
+        #s.connect((webserver, 80))
+        #s.sendall(h)
+          #re = s.recv(65536)
+        #re = self.recv_all(s)
+
+        re = self.check_cache(webserver, port, conn, header)
 
         # debug: it seems good, retrieved the page successfully :)
         self.write_log(self.getTimeStamp() + 'GET_The_response\n####\n' + re)
